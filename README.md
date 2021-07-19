@@ -29,19 +29,25 @@
 br
 br
 
-## Languages and Tools
-img align=left alt=Visual Studio Code width=40px src=httpsraw.githubusercontent.comgithubexplore80688e429a7d4ef2fca1e82350fe8e3517d3494dtopicsvisual-studio-codevisual-studio-code.png
-img align=left alt=Python width=40px src=httpsraw.githubusercontent.comgithubexplore80688e429a7d4ef2fca1e82350fe8e3517d3494dtopicspythonpython.png
-img align=left alt=Tensorflow width=40px src=httpsraw.githubusercontent.comgithubexplore80688e429a7d4ef2fca1e82350fe8e3517d3494dtopicstensorflowtensorflow.png
-img align=left alt=Keras width=36px src=httpsraw.githubusercontent.comgithubexploremastertopicskeraskeras.png
-img align=left alt=Jupyter width=40px src=httpsraw.githubusercontent.comgithubexploremastertopicsjupyter-notebookjupyter-notebook.png
-img align=left alt=HTML5 width=40px src=httpsraw.githubusercontent.comgithubexplore80688e429a7d4ef2fca1e82350fe8e3517d3494dtopicshtmlhtml.png
-img align=left alt=CSS3 width=40px src=httpsraw.githubusercontent.comgithubexplore80688e429a7d4ef2fca1e82350fe8e3517d3494dtopicscsscss.png
-img align=left alt=JavaScript width=40px src=httpsraw.githubusercontent.comgithubexplore80688e429a7d4ef2fca1e82350fe8e3517d3494dtopicsjavascriptjavascript.png
-img align=left alt=Node.js width=36px src=httpsraw.githubusercontent.comgithubexplore80688e429a7d4ef2fca1e82350fe8e3517d3494dtopicsnodejsnodejs.png
-img align=left alt=Git width=40px src=httpsraw.githubusercontent.comgithubexplore80688e429a7d4ef2fca1e82350fe8e3517d3494dtopicsgitgit.png
-img align=leftwidth=40px src=httpsraw.githubusercontent.comgithubexplore80688e429a7d4ef2fca1e82350fe8e3517d3494dtopicsarduinoarduino.png
-img align=left width=36px src=httpsraw.githubusercontent.comgithubexplore80688e429a7d4ef2fca1e82350fe8e3517d3494dtopicsmatlabmatlab.png
+## Languages and Tools:
+<p align="center">
+          <img align="left" alt="Visual Studio Code" width="40px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Keras" width="36px" src="https://raw.githubusercontent.com/github/explore/master/topics/keras/keras.png" />
+<img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
+<img align="left" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="AWS" width="36px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left"width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"/>
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/>
+
+</p>
 
 
 br
