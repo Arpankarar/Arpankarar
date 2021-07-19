@@ -26,9 +26,6 @@
   </a>
 </p>
 
-br
-br
-
 ## Languages and Tools:
 <p align="center">
           <img align="left" alt="Visual Studio Code" width="40px"
@@ -48,19 +45,3 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"/>
 
 </p>
-
-
-br
-br
-
----
-
-
-
-## GitHub Stats:
-br
-
-img align=left src=httpsgithub-readme-stats.vercel.appapiusername=Arpankarar&show_icons=true&theme=tokyonight alt=Arpan's Stats
-br
-br
-img align=center src=httpsgithub-readme-stats.vercel.appapitop-langsusername=Arpankarar&langs_count=8&border_radius=10px&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats,Arpankarar.github.io alt=Arpan's Stats
