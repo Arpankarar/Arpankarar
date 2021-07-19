@@ -1,7 +1,7 @@
 ![BannerGIF](profile_git.jpg)
-## Hi there, I'm arpan 👋
+## Hi there, I'm Arpan 👋
 
-# I'm a Student at VIT Vellore pursuing my B-Tech degree in ECE. I am enthusiastic coder !!
+# I'm a Student at VIT Vellore pursuing my B-Tech degree in ECE and an enthusiastic coder !!
 
 - 🔭 I am currently working on new and fascinating projects.
 - 👯 I’m looking to collaborate with other developers for hackathons and projects
