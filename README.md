@@ -1,4 +1,4 @@
-![BannerGIF](profile_git.jpg)
+![BannerGIF](1.jpg)
 ## Hi there, I'm Arpan 👋
 
 # I'm a Student at VIT Vellore pursuing my B-Tech degree in ECE and an enthusiastic coder !!
